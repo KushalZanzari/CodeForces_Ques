@@ -1,0 +1,1 @@
+import java.util.Scanner;import java.util.Arrays; public class Main {    public static void main(String[] args) {        Scanner sc = new Scanner(System.in);        int[] pos = new int[3];        pos[0] = sc.nextInt();        pos[1] = sc.nextInt();        pos[2] = sc.nextInt();                Arrays.sort(pos);                System.out.println(pos[2] - pos[0]);    }}
