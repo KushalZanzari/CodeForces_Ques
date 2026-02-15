@@ -1,0 +1,1 @@
+import java.util.Scanner; public class Main {    public static void main(String[] args) {        Scanner sc = new Scanner(System.in);        int n = sc.nextInt();        int ways = 0;               for (int l = 1; l <= n / 2; l++) {            if ((n - l) % l == 0) {                ways++;            }        }        System.out.println(ways);    }}
