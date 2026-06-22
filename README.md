@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 4 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
+- [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
@@ -30,6 +31,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 439A | [Devu, the Singer and Churu, the Joker](https://codeforces.com/contest/439/problem/A) | 900 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/439/A%20-%20Devu%2C%20the%20Singer%20and%20Churu%2C%20the%20Joker/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.java) |
 
 ### strings
 
