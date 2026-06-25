@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 6 |
+| 5 | 7 |
 
 ---
 
@@ -14,9 +14,10 @@
 
 - [binary search](#binary-search) (1)
 - [dp](#dp) (1)
+- [geometry](#geometry) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (2)
-- [math](#math) (1)
+- [implementation](#implementation) (3)
+- [math](#math) (2)
 - [strings](#strings) (1)
 
 ---
@@ -33,6 +34,12 @@
 |---|---------|------------|----------|
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -44,6 +51,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.java) |
 | 439A | [Devu, the Singer and Churu, the Joker](https://codeforces.com/contest/439/problem/A) | 900 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/439/A%20-%20Devu%2C%20the%20Singer%20and%20Churu%2C%20the%20Joker/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 
@@ -51,6 +59,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.java) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.java) |
 
 ### strings
