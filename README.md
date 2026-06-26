@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 8 |
+| 7 | 8 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [dp](#dp) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
@@ -55,6 +55,7 @@
 |---|---------|------------|----------|
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.java) |
 | 439A | [Devu, the Singer and Churu, the Joker](https://codeforces.com/contest/439/problem/A) | 900 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/439/A%20-%20Devu%2C%20the%20Singer%20and%20Churu%2C%20the%20Joker/solution.java) |
+| 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 
