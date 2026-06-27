@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 9 |
+| 10 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (3)
+- [brute force](#brute-force) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [geometry](#geometry) (1)
@@ -31,6 +32,12 @@
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/474/B%20-%20Worms/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 25A | [IQ test](https://codeforces.com/contest/25/problem/A) | 1300 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/25/A%20-%20IQ%20test/solution.java) |
 
 ### data structures
 
