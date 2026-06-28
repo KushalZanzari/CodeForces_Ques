@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 10 |
+| 11 | 10 |
 
 ---
 
@@ -18,9 +18,9 @@
 - [dp](#dp) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (7)
+- [implementation](#implementation) (8)
 - [math](#math) (3)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [strings](#strings) (1)
 
 ---
@@ -70,6 +70,7 @@
 |---|---------|------------|----------|
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.java) |
 | 439A | [Devu, the Singer and Churu, the Joker](https://codeforces.com/contest/439/problem/A) | 900 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/439/A%20-%20Devu%2C%20the%20Singer%20and%20Churu%2C%20the%20Joker/solution.java) |
+| 451B | [Sort the Array](https://codeforces.com/contest/451/problem/B) | 1300 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/451/B%20-%20Sort%20the%20Array/solution.java) |
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.java) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/474/B%20-%20Worms/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
@@ -88,6 +89,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 451B | [Sort the Array](https://codeforces.com/contest/451/problem/B) | 1300 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/451/B%20-%20Sort%20the%20Array/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 519B | [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | 1100 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/519/B%20-%20A%20and%20B%20and%20Compilation%20Errors/solution.java) |
 
