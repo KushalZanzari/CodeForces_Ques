@@ -6,20 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 10 |
+| 12 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (3)
+- [binary search](#binary-search) (4)
 - [brute force](#brute-force) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (8)
-- [math](#math) (3)
+- [math](#math) (4)
 - [sortings](#sortings) (3)
 - [strings](#strings) (1)
 
@@ -32,6 +32,7 @@
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/474/B%20-%20Worms/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
+| 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.java) |
 
 ### brute force
 
@@ -83,6 +84,7 @@
 |---|---------|------------|----------|
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
+| 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.java) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Java 21](https://github.com/KushalZanzari/CodeForces_Ques/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.java) |
 
 ### sortings
